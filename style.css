@@ -1,0 +1,61 @@
+/* Body Styles */
+body {
+    font-family: Consolas;
+    margin: 0;
+    padding: 20px;
+    background: black;
+    background-repeat: no-repeat;
+    color: #d4d4d4;
+    background-size: cover;
+  }
+  
+  /* Heading Styles */
+  h1 {
+    color: #d4d4d4;
+    text-align: center;
+    align-content: center;
+  }
+  
+  h2 {
+    color: #d4d4d4;
+  }
+  
+  /* Event Schedule Styles */
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 20px;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  /* Poster Styles */
+  img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Registration Link Styles */
+  button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    align-items: center;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
